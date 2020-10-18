@@ -1,0 +1,2 @@
+stack_options(purge: true)
+mod "iam", source: "terraform-aws-modules/iam/aws", stacks: :all

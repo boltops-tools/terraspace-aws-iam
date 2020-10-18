@@ -1,0 +1,7 @@
+---
+iam:
+  source: terraform-aws-modules/iam/aws
+  stacks: :all
+  type: registry
+  url: https://github.com/terraform-aws-modules/terraform-aws-iam
+  sha: d315f1f59a5fcbb10d7d51f2fdca9b3f33695799
